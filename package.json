@@ -19,7 +19,7 @@
     "express-group-routes": "^1.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.9.0",
-    "mongoose": "^8.6.3",
+    "mongoose": "^8.9.5",
     "mysql": "^2.18.1",
     "validator": "^13.12.0"
   },

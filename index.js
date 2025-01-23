@@ -26,6 +26,7 @@ app.get("/", (req, res) => {
     res.json({ message: "Welcome to application." });
 });
 
+
 require("./server/routers/personnels/personnel_profile")(app);
 require("./server/routers/auth/auth")(app);
 
